@@ -7,3 +7,4 @@ with open('schema.sql') as f:
 
 connection.commit()
 connection.close()
+
